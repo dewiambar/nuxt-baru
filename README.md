@@ -1,5 +1,6 @@
 # coba_bulma
 hallo deww!
+hallo beb!
 > My riveting Nuxt.js project
 
 ## Build Setup
