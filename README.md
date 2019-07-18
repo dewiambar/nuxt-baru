@@ -1,4 +1,5 @@
 # coba_bulma
+halooo fannssss!!!!!!!
 
 > My riveting Nuxt.js project
 
