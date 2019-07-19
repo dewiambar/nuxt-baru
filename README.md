@@ -5,6 +5,7 @@ halooo fannssss!!!!!!!
 =======
 hallo deww!
 hallo beb!
+#gak kurang-kurang say
 >>>>>>> 1f6e01651fff93a1cdda76a45e564b73da6dc0a3
 > My riveting Nuxt.js project
 
